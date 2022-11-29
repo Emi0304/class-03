@@ -1,0 +1,32 @@
+body{
+    background-color: #497174;
+}
+#heading{
+    text-align: center;
+    color:#ffffff;
+
+}
+#sub-title{
+    text-align: center;
+    color: #ffffff;
+}
+#input-style{
+    text-align: center;
+}
+#input-style input {
+    height: 34px;
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+}
+
+.button-type{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+
+
+    
